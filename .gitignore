@@ -31,10 +31,10 @@ bin/
 ### Mac OS ###
 .DS_Store
 
- .idea/
- *.iml
- out/
- build/
- *.class
+.idea/
+*.iml
+out/
+build/
+*.class
 
 
