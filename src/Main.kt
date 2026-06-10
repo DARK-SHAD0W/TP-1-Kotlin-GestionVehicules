@@ -18,7 +18,7 @@ fun main() {
     garage.ajouterVehicule(m2)
 
     // Affichage du contenu du garage
-    println(" Contenu du garage: \n" )
+    println(" \nContenu du garage: \n" )
     garage.afficherGarage()
 
     // Test des klaxons pour chaque vehicule
